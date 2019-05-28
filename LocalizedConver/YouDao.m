@@ -9,7 +9,10 @@
 #import "AFNetworking.h"
 #import "YouDao.h"
 
-#define YouDaoKey @"5d2caf49fd1c5716"
+#error 去有道翻译开放平台申请key:https://ai.youdao.com
+
+//下面的key不可用
+#define YouDaoKey @"p5d2caf49fd1c5716"
 #define YouDaoSecret @"nVzKxFiSwGzwEBBpiuuOj4DJLFwFLJtq"
 
 
